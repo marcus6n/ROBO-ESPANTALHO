@@ -23,11 +23,8 @@ javac RoboEspantalho.java
 3. Execute o programa com os parâmetros de entrada.
 
 ```shell
-java RoboEspantalho < input.txt > output.txt
+java RoboEspantalho.java
 ```
-
-- `input.txt`: Arquivo de entrada contendo os valores de N, C, S e a sequência de comandos.
-- `output.txt`: Arquivo de saída onde será exibido o número de vezes que o robô permaneceu na estação mais próxima à área devastada.
 
 ## Exemplo de Entrada
 
